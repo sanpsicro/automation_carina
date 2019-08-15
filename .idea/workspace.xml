@@ -2,150 +2,8 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="58e3b2b2-7bc1-4ceb-bac5-a4ad5b576eff" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/test/qa_challenge/demo/gui/components/LoginItem.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/test/qa_challenge/demo/gui/pages/home.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/test/qa_challenge/demo/gui/pages/search.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/test/qa_challenge/demo/gui/test.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/java/com/test/qa_challenge/demo_test.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/reports/qa/1563296731537/1bfa8863-20bb-4750-ac02-a557abfcde0e/test.log" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/reports/qa/1563296731537/GSMA0001_-_GSM_arena_web_tests_-_testModelSpecs/test.log" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/reports/qa/1563296731537/GSMA0002_-_GSM_arena_web_tests_-_testModelSpecs/test.log" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/reports/qa/1563296731537/GSMA0003_-_GSM_arena_web_tests_-_testModelSpecs/test.log" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/reports/qa/1563296731537/GSM_arena_web_tests_-_testCompareModels/test.log" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/reports/qa/1563296731537/GSM_arena_web_tests_-_testNewsSearch/test.log" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/reports/qa/1563297044354/13ccd4ce-b0ae-4a08-b7cb-7d9ee02ebb37/test.log" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/reports/qa/1563297044354/GSMA0001_-_GSM_arena_web_tests_-_testModelSpecs/test.log" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/reports/qa/1563297044354/GSMA0002_-_GSM_arena_web_tests_-_testModelSpecs/test.log" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/reports/qa/1563297044354/GSMA0003_-_GSM_arena_web_tests_-_testModelSpecs/test.log" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/reports/qa/1563297044354/GSM_arena_web_tests_-_testCompareModels/test.log" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/reports/qa/1563297044354/GSM_arena_web_tests_-_testLoginSucces/test.log" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/reports/qa/1563297044354/GSM_arena_web_tests_-_testNewsSearch/test.log" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/reports/qa/1563297137644/GSM_arena_web_tests_-_testLoginSucces/test.log" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/reports/qa/1563297137644/b02ed744-b0a8-46f1-9e28-00f06005305c/test.log" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/reports/qa/1563297590339/0afcacba-5145-4328-a0ec-0c6704de3747/test.log" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/reports/qa/1563297590339/GSM_arena_web_tests_-_testLoginSucces/test.log" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/reports/qa/1563297628151/32a24bd7-dc92-449d-8e4f-635de4a325ef/test.log" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/reports/qa/1563297628151/automation_-_testLoginSucces/test.log" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/reports/qa/1563297716927/GSM_arena_web_tests_-_testLoginSucces/test.log" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/reports/qa/1563297716927/ef987ee1-a25f-4636-963f-cfde5b87b1ef/test.log" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/reports/qa/1563297754109/67c46b0d-d1a8-4b90-bbc8-0d77b884e09f/test.log" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/reports/qa/1563297754109/GSM_arena_web_tests_-_testLoginSucces/test.log" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/reports/qa/1563297805578/GSM_arena_web_tests_-_testLoginSucces/1563297810545.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/reports/qa/1563297805578/GSM_arena_web_tests_-_testLoginSucces/1563297831987.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/reports/qa/1563297805578/GSM_arena_web_tests_-_testLoginSucces/report.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/reports/qa/1563297805578/GSM_arena_web_tests_-_testLoginSucces/test.log" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/reports/qa/1563297805578/GSM_arena_web_tests_-_testLoginSucces/thumbnails/1563297810545.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/reports/qa/1563297805578/GSM_arena_web_tests_-_testLoginSucces/thumbnails/1563297831987.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/reports/qa/1563297805578/e9ff5c50-390c-4bb0-9029-23825cd8fc47/test.log" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/reports/qa/1563551638489/automation_-_testLoginSucces/1563551651509.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/reports/qa/1563551638489/automation_-_testLoginSucces/1563551652650.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/reports/qa/1563551638489/automation_-_testLoginSucces/1563551653142.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/reports/qa/1563551638489/automation_-_testLoginSucces/1563551653824.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/reports/qa/1563551638489/automation_-_testLoginSucces/1563551654255.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/reports/qa/1563551638489/automation_-_testLoginSucces/1563551654701.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/reports/qa/1563551638489/automation_-_testLoginSucces/1563551655088.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/reports/qa/1563551638489/automation_-_testLoginSucces/1563551655528.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/reports/qa/1563551638489/automation_-_testLoginSucces/1563551655910.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/reports/qa/1563551638489/automation_-_testLoginSucces/1563551656326.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/reports/qa/1563551638489/automation_-_testLoginSucces/1563551656693.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/reports/qa/1563551638489/automation_-_testLoginSucces/1563551657141.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/reports/qa/1563551638489/automation_-_testLoginSucces/1563551657550.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/reports/qa/1563551638489/automation_-_testLoginSucces/1563551657948.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/reports/qa/1563551638489/automation_-_testLoginSucces/1563551658364.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/reports/qa/1563551638489/automation_-_testLoginSucces/1563551658813.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/reports/qa/1563551638489/automation_-_testLoginSucces/1563551659242.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/reports/qa/1563551638489/automation_-_testLoginSucces/1563551659648.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/reports/qa/1563551638489/automation_-_testLoginSucces/1563551660090.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/reports/qa/1563551638489/automation_-_testLoginSucces/1563551660460.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/reports/qa/1563551638489/automation_-_testLoginSucces/1563551660829.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/reports/qa/1563551638489/automation_-_testLoginSucces/1563551661171.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/reports/qa/1563551638489/automation_-_testLoginSucces/1563551661489.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/reports/qa/1563551638489/automation_-_testLoginSucces/1563551661878.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/reports/qa/1563551638489/automation_-_testLoginSucces/1563551662200.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/reports/qa/1563551638489/automation_-_testLoginSucces/1563551662524.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/reports/qa/1563551638489/automation_-_testLoginSucces/1563551662892.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/reports/qa/1563551638489/automation_-_testLoginSucces/1563551663232.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/reports/qa/1563551638489/automation_-_testLoginSucces/1563551663579.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/reports/qa/1563551638489/automation_-_testLoginSucces/1563551663911.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/reports/qa/1563551638489/automation_-_testLoginSucces/1563551664358.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/reports/qa/1563551638489/automation_-_testLoginSucces/1563551664680.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/reports/qa/1563551638489/automation_-_testLoginSucces/1563551665070.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/reports/qa/1563551638489/automation_-_testLoginSucces/1563551665427.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/reports/qa/1563551638489/automation_-_testLoginSucces/1563551665829.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/reports/qa/1563551638489/automation_-_testLoginSucces/1563551666196.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/reports/qa/1563551638489/automation_-_testLoginSucces/1563551666565.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/reports/qa/1563551638489/automation_-_testLoginSucces/1563551666942.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/reports/qa/1563551638489/automation_-_testLoginSucces/1563551667304.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/reports/qa/1563551638489/automation_-_testLoginSucces/report.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/reports/qa/1563551638489/automation_-_testLoginSucces/test.log" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/reports/qa/1563551638489/automation_-_testLoginSucces/thumbnails/1563551651509.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/reports/qa/1563551638489/automation_-_testLoginSucces/thumbnails/1563551652650.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/reports/qa/1563551638489/automation_-_testLoginSucces/thumbnails/1563551653142.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/reports/qa/1563551638489/automation_-_testLoginSucces/thumbnails/1563551653824.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/reports/qa/1563551638489/automation_-_testLoginSucces/thumbnails/1563551654255.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/reports/qa/1563551638489/automation_-_testLoginSucces/thumbnails/1563551654701.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/reports/qa/1563551638489/automation_-_testLoginSucces/thumbnails/1563551655088.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/reports/qa/1563551638489/automation_-_testLoginSucces/thumbnails/1563551655528.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/reports/qa/1563551638489/automation_-_testLoginSucces/thumbnails/1563551655910.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/reports/qa/1563551638489/automation_-_testLoginSucces/thumbnails/1563551656326.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/reports/qa/1563551638489/automation_-_testLoginSucces/thumbnails/1563551656693.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/reports/qa/1563551638489/automation_-_testLoginSucces/thumbnails/1563551657141.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/reports/qa/1563551638489/automation_-_testLoginSucces/thumbnails/1563551657550.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/reports/qa/1563551638489/automation_-_testLoginSucces/thumbnails/1563551657948.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/reports/qa/1563551638489/automation_-_testLoginSucces/thumbnails/1563551658364.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/reports/qa/1563551638489/automation_-_testLoginSucces/thumbnails/1563551658813.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/reports/qa/1563551638489/automation_-_testLoginSucces/thumbnails/1563551659242.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/reports/qa/1563551638489/automation_-_testLoginSucces/thumbnails/1563551659648.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/reports/qa/1563551638489/automation_-_testLoginSucces/thumbnails/1563551660090.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/reports/qa/1563551638489/automation_-_testLoginSucces/thumbnails/1563551660460.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/reports/qa/1563551638489/automation_-_testLoginSucces/thumbnails/1563551660829.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/reports/qa/1563551638489/automation_-_testLoginSucces/thumbnails/1563551661171.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/reports/qa/1563551638489/automation_-_testLoginSucces/thumbnails/1563551661489.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/reports/qa/1563551638489/automation_-_testLoginSucces/thumbnails/1563551661878.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/reports/qa/1563551638489/automation_-_testLoginSucces/thumbnails/1563551662200.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/reports/qa/1563551638489/automation_-_testLoginSucces/thumbnails/1563551662524.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/reports/qa/1563551638489/automation_-_testLoginSucces/thumbnails/1563551662892.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/reports/qa/1563551638489/automation_-_testLoginSucces/thumbnails/1563551663232.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/reports/qa/1563551638489/automation_-_testLoginSucces/thumbnails/1563551663579.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/reports/qa/1563551638489/automation_-_testLoginSucces/thumbnails/1563551663911.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/reports/qa/1563551638489/automation_-_testLoginSucces/thumbnails/1563551664358.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/reports/qa/1563551638489/automation_-_testLoginSucces/thumbnails/1563551664680.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/reports/qa/1563551638489/automation_-_testLoginSucces/thumbnails/1563551665070.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/reports/qa/1563551638489/automation_-_testLoginSucces/thumbnails/1563551665427.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/reports/qa/1563551638489/automation_-_testLoginSucces/thumbnails/1563551665829.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/reports/qa/1563551638489/automation_-_testLoginSucces/thumbnails/1563551666196.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/reports/qa/1563551638489/automation_-_testLoginSucces/thumbnails/1563551666565.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/reports/qa/1563551638489/automation_-_testLoginSucces/thumbnails/1563551666942.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/reports/qa/1563551638489/automation_-_testLoginSucces/thumbnails/1563551667304.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/reports/qa/1563551638489/dee51279-ac86-4c2b-a407-d294ab824d4a/test.log" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/reports/qa/emailable-report.html" beforeDir="false" afterPath="$PROJECT_DIR$/reports/qa/emailable-report.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/docker-compose.yml" beforeDir="false" afterPath="$PROJECT_DIR$/docker-compose.yml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/main/resources/_config.properties" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/resources/_config.properties" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/test/java/com/test/forte/demo/Login_test.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/com/test/forte/demo/home_test.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/test/resources/testng_suites/web.xml" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/resources/testng_suites/web.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/_api.properties" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/_api.properties" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/_config.properties" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/_config.properties" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/_database.properties" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/_database.properties" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/_email.properties" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/_email.properties" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/_testdata.properties" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/_testdata.properties" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/crypto.key" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/crypto.key" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/l18n/messages.properties" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/l18n/messages.properties" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/zafira.properties" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/zafira.properties" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/logs/test.log" beforeDir="false" afterPath="$PROJECT_DIR$/target/logs/test.log" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/test-classes/api/users/_delete/rq.json" beforeDir="false" afterPath="$PROJECT_DIR$/target/test-classes/api/users/_delete/rq.json" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/test-classes/api/users/_delete/rs.json" beforeDir="false" afterPath="$PROJECT_DIR$/target/test-classes/api/users/_delete/rs.json" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/test-classes/api/users/_get/rs.json" beforeDir="false" afterPath="$PROJECT_DIR$/target/test-classes/api/users/_get/rs.json" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/test-classes/api/users/_get/rs.schema" beforeDir="false" afterPath="$PROJECT_DIR$/target/test-classes/api/users/_get/rs.schema" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/test-classes/api/users/_post/rq.json" beforeDir="false" afterPath="$PROJECT_DIR$/target/test-classes/api/users/_post/rq.json" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/test-classes/api/users/_post/rs.json" beforeDir="false" afterPath="$PROJECT_DIR$/target/test-classes/api/users/_post/rs.json" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/test-classes/api/users/user.properties" beforeDir="false" afterPath="$PROJECT_DIR$/target/test-classes/api/users/user.properties" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/test-classes/com/test/forte/demo/Login_test.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/test-classes/com/test/forte/demo/Registro_test.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/test-classes/com/test/forte/demo/Registro_test.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/test-classes/testng_suites/api.xml" beforeDir="false" afterPath="$PROJECT_DIR$/target/test-classes/testng_suites/api.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/test-classes/testng_suites/tags.xml" beforeDir="false" afterPath="$PROJECT_DIR$/target/test-classes/testng_suites/tags.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/test-classes/testng_suites/test-params.xml" beforeDir="false" afterPath="$PROJECT_DIR$/target/test-classes/testng_suites/test-params.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/test-classes/testng_suites/web.xml" beforeDir="false" afterPath="$PROJECT_DIR$/target/test-classes/testng_suites/web.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/test-classes/xls/demo.xlsx" beforeDir="false" afterPath="$PROJECT_DIR$/target/test-classes/xls/demo.xlsx" afterDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/out/" />
     <ignored path="$PROJECT_DIR$/target/" />
@@ -172,24 +30,23 @@
           </provider>
         </entry>
       </file>
-      <file pinned="false" current-in-tab="true">
+      <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/test/java/com/test/qa_challenge/demo_test.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="316">
-              <caret line="33" column="31" lean-forward="true" selection-start-line="33" selection-start-column="31" selection-end-line="33" selection-end-column="31" />
+            <state relative-caret-position="285">
+              <caret line="33" column="31" selection-start-line="33" selection-start-column="31" selection-end-line="33" selection-end-column="31" />
               <folding>
-                <element signature="e#0#3157#0" expanded="true" />
                 <element signature="imports" expanded="true" />
               </folding>
             </state>
           </provider>
         </entry>
       </file>
-      <file pinned="false" current-in-tab="false">
+      <file pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/src/main/resources/_config.properties">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="285">
-              <caret line="19" column="33" selection-start-line="19" selection-start-column="33" selection-end-line="19" selection-end-column="33" />
+            <state relative-caret-position="90">
+              <caret line="6" column="25" selection-start-line="6" selection-start-column="25" selection-end-line="6" selection-end-column="25" />
             </state>
           </provider>
         </entry>
@@ -215,7 +72,7 @@
       <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/test/java/com/test/forte/demo/home_test.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="590">
+            <state relative-caret-position="1155">
               <caret line="113" column="8" selection-start-line="113" selection-start-column="8" selection-end-line="117" selection-end-column="35" />
               <folding>
                 <element signature="imports" expanded="true" />
@@ -227,7 +84,7 @@
       <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/main/java/com/test/qa_challenge/demo/gui/pages/search.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="250">
+            <state relative-caret-position="315">
               <caret line="38" column="20" selection-start-line="38" selection-start-column="20" selection-end-line="38" selection-end-column="20" />
             </state>
           </provider>
@@ -236,7 +93,7 @@
       <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/main/java/com/test/qa_challenge/demo/gui/pages/home.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="616">
+            <state relative-caret-position="870">
               <caret line="78" column="1" selection-start-line="78" selection-start-column="1" selection-end-line="78" selection-end-column="1" />
             </state>
           </provider>
@@ -254,7 +111,7 @@
       <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/main/java/com/test/mobile/forte/demo/gui/pages/Registro.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="-15">
+            <state relative-caret-position="75">
               <caret line="22" column="13" selection-start-line="22" selection-start-column="13" selection-end-line="22" selection-end-column="13" />
             </state>
           </provider>
@@ -303,6 +160,13 @@
       </list>
     </option>
   </component>
+  <component name="MavenImportPreferences">
+    <option name="importingSettings">
+      <MavenImportingSettings>
+        <option name="importAutomatically" value="true" />
+      </MavenImportingSettings>
+    </option>
+  </component>
   <component name="MavenProjectNavigator">
     <treeState>
       <expand>
@@ -323,139 +187,14 @@
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
-      <pane id="PackagesPane" />
       <pane id="Scope" />
-      <pane id="ProjectPane">
-        <subPane>
-          <expand>
-            <path>
-              <item name="automation" type="b2602c69:ProjectViewProjectNode" />
-              <item name="automation" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="automation" type="b2602c69:ProjectViewProjectNode" />
-              <item name="automation" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="automation" type="b2602c69:ProjectViewProjectNode" />
-              <item name="automation" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="main" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="automation" type="b2602c69:ProjectViewProjectNode" />
-              <item name="automation" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="main" type="462c0819:PsiDirectoryNode" />
-              <item name="java" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="automation" type="b2602c69:ProjectViewProjectNode" />
-              <item name="automation" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="main" type="462c0819:PsiDirectoryNode" />
-              <item name="java" type="462c0819:PsiDirectoryNode" />
-              <item name="test" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="automation" type="b2602c69:ProjectViewProjectNode" />
-              <item name="automation" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="main" type="462c0819:PsiDirectoryNode" />
-              <item name="java" type="462c0819:PsiDirectoryNode" />
-              <item name="test" type="462c0819:PsiDirectoryNode" />
-              <item name="gui" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="automation" type="b2602c69:ProjectViewProjectNode" />
-              <item name="automation" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="main" type="462c0819:PsiDirectoryNode" />
-              <item name="java" type="462c0819:PsiDirectoryNode" />
-              <item name="test" type="462c0819:PsiDirectoryNode" />
-              <item name="gui" type="462c0819:PsiDirectoryNode" />
-              <item name="pages" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="automation" type="b2602c69:ProjectViewProjectNode" />
-              <item name="automation" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="main" type="462c0819:PsiDirectoryNode" />
-              <item name="resources" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="automation" type="b2602c69:ProjectViewProjectNode" />
-              <item name="automation" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="test" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="automation" type="b2602c69:ProjectViewProjectNode" />
-              <item name="automation" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="test" type="462c0819:PsiDirectoryNode" />
-              <item name="java" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="automation" type="b2602c69:ProjectViewProjectNode" />
-              <item name="automation" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="test" type="462c0819:PsiDirectoryNode" />
-              <item name="java" type="462c0819:PsiDirectoryNode" />
-              <item name="test" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="automation" type="b2602c69:ProjectViewProjectNode" />
-              <item name="automation" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="test" type="462c0819:PsiDirectoryNode" />
-              <item name="java" type="462c0819:PsiDirectoryNode" />
-              <item name="test" type="462c0819:PsiDirectoryNode" />
-              <item name="demo" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="automation" type="b2602c69:ProjectViewProjectNode" />
-              <item name="automation" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="test" type="462c0819:PsiDirectoryNode" />
-              <item name="java" type="462c0819:PsiDirectoryNode" />
-              <item name="test" type="462c0819:PsiDirectoryNode" />
-              <item name="demo" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="automation" type="b2602c69:ProjectViewProjectNode" />
-              <item name="automation" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="test" type="462c0819:PsiDirectoryNode" />
-              <item name="java" type="462c0819:PsiDirectoryNode" />
-              <item name="test" type="462c0819:PsiDirectoryNode" />
-              <item name="qa_challenge" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="automation" type="b2602c69:ProjectViewProjectNode" />
-              <item name="automation" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="test" type="462c0819:PsiDirectoryNode" />
-              <item name="resources" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="automation" type="b2602c69:ProjectViewProjectNode" />
-              <item name="automation" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="test" type="462c0819:PsiDirectoryNode" />
-              <item name="resources" type="462c0819:PsiDirectoryNode" />
-              <item name="testng_suites" type="462c0819:PsiDirectoryNode" />
-            </path>
-          </expand>
-          <select />
-        </subPane>
-      </pane>
+      <pane id="PackagesPane" />
+      <pane id="ProjectPane" />
     </panes>
   </component>
   <component name="PropertiesComponent">
     <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$/src/main/java/com/test/qa_challenge/demo" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
     <property name="project.structure.last.edited" value="Libraries" />
     <property name="project.structure.proportion" value="0.0" />
     <property name="project.structure.side.proportion" value="0.0" />
@@ -640,14 +379,15 @@
     </todo-panel>
   </component>
   <component name="ToolWindowManager">
-    <frame x="0" y="0" width="1920" height="1080" extended-state="6" />
+    <frame x="0" y="27" width="1280" height="693" extended-state="6" />
+    <editor active="true" />
     <layout>
       <window_info id="Designer" order="0" />
       <window_info id="UI Designer" order="1" />
       <window_info id="Capture Tool" order="2" />
       <window_info id="Favorites" order="3" side_tool="true" />
       <window_info id="Image Layers" order="4" />
-      <window_info content_ui="combo" id="Project" order="5" visible="true" weight="0.27374598" />
+      <window_info active="true" content_ui="combo" id="Project" order="5" visible="true" weight="0.27876824" />
       <window_info id="Structure" order="6" side_tool="true" weight="0.25" />
       <window_info anchor="bottom" id="Terminal" order="0" weight="0.31461865" />
       <window_info anchor="bottom" id="Event Log" order="1" sideWeight="0.5008104" side_tool="true" weight="0.44364938" />
@@ -930,13 +670,34 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/test/java/com/test/forte/demo/Registro_test.java">
+    <entry file="file://$PROJECT_DIR$/src/test/resources/testng_suites/web.xml">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="390">
-          <caret line="43" column="41" selection-start-line="43" selection-start-column="41" selection-end-line="43" selection-end-column="41" />
+        <state relative-caret-position="180">
+          <caret line="12" column="56" selection-start-line="12" selection-start-column="47" selection-end-line="12" selection-end-column="56" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/test/java/com/test/forte/demo/home_test.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1155">
+          <caret line="113" column="8" selection-start-line="113" selection-start-column="8" selection-end-line="117" selection-end-column="35" />
           <folding>
             <element signature="imports" expanded="true" />
           </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/test/qa_challenge/demo/gui/pages/search.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="315">
+          <caret line="38" column="20" selection-start-line="38" selection-start-column="20" selection-end-line="38" selection-end-column="20" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/test/qa_challenge/demo/gui/pages/home.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="870">
+          <caret line="78" column="1" selection-start-line="78" selection-start-column="1" selection-end-line="78" selection-end-column="1" />
         </state>
       </provider>
     </entry>
@@ -949,39 +710,28 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/src/main/java/com/test/mobile/forte/demo/gui/pages/Registro.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-15">
+        <state relative-caret-position="75">
           <caret line="22" column="13" selection-start-line="22" selection-start-column="13" selection-end-line="22" selection-end-column="13" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/test/java/com/test/forte/demo/home_test.java">
+    <entry file="file://$PROJECT_DIR$/src/test/java/com/test/qa_challenge/demo_test.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="590">
-          <caret line="113" column="8" selection-start-line="113" selection-start-column="8" selection-end-line="117" selection-end-column="35" />
+        <state relative-caret-position="285">
+          <caret line="33" column="31" selection-start-line="33" selection-start-column="31" selection-end-line="33" selection-end-column="31" />
           <folding>
             <element signature="imports" expanded="true" />
           </folding>
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/com/test/qa_challenge/demo/gui/pages/home.java">
+    <entry file="file://$PROJECT_DIR$/src/test/java/com/test/forte/demo/Registro_test.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="616">
-          <caret line="78" column="1" selection-start-line="78" selection-start-column="1" selection-end-line="78" selection-end-column="1" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/com/test/qa_challenge/demo/gui/pages/search.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="250">
-          <caret line="38" column="20" selection-start-line="38" selection-start-column="20" selection-end-line="38" selection-end-column="20" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/test/resources/testng_suites/web.xml">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="180">
-          <caret line="12" column="56" selection-start-line="12" selection-start-column="47" selection-end-line="12" selection-end-column="56" />
+        <state relative-caret-position="390">
+          <caret line="43" column="41" selection-start-line="43" selection-start-column="41" selection-end-line="43" selection-end-column="41" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
         </state>
       </provider>
     </entry>
@@ -994,19 +744,8 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/src/main/resources/_config.properties">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="285">
-          <caret line="19" column="33" selection-start-line="19" selection-start-column="33" selection-end-line="19" selection-end-column="33" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/test/java/com/test/qa_challenge/demo_test.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="316">
-          <caret line="33" column="31" lean-forward="true" selection-start-line="33" selection-start-column="31" selection-end-line="33" selection-end-column="31" />
-          <folding>
-            <element signature="e#0#3157#0" expanded="true" />
-            <element signature="imports" expanded="true" />
-          </folding>
+        <state relative-caret-position="90">
+          <caret line="6" column="25" selection-start-line="6" selection-start-column="25" selection-end-line="6" selection-end-column="25" />
         </state>
       </provider>
     </entry>

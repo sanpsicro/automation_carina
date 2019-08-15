@@ -26,7 +26,7 @@ services:
       - "4444:4444"
 
   app:
-    image: sanpsicro/2cf1ad2fa0e9
+    image: sanpsicro/test-image-2:latest
     volumes:
       - /dev/shm:/dev/shm
     depends_on:
