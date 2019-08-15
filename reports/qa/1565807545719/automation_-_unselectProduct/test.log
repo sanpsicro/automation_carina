@@ -1,0 +1,40 @@
+[2019-08-14 01:32:54] [IMessager.java] [1] [INFO] INFO:  TEST [automation - unselectProduct] STARTED at [13:32:54 2019-08-14]
+[2019-08-14 01:32:54] [DesktopFactory.java] [1] [ERROR] Unable to resize browser window
+[2019-08-14 01:32:54] [IMessager.java] [1] [INFO] INFO: url 'http://172.18.0.4:3000//#/login' is being opened...
+[2019-08-14 01:32:55] [DriverListener.java] [1] [INFO] INFO: url 'http://172.18.0.4:3000//#/login' is opened.
+[2019-08-14 01:32:55] [DriverListener.java] [1] [INFO] PASS: keys cleared in element 'INPUT_search'.
+[2019-08-14 01:32:55] [DriverListener.java] [1] [INFO] PASS: keys 'a' are sent to element 'INPUT_search'.
+[2019-08-14 01:33:16] [ExtendedWebElement.java] [1] [ERROR] FAIL: click - waitCondition for element 'TXT_chosenElem (By.xpath: (//td[contains(.,"Butter, with salt")])[1])' not satisfied!
+[2019-08-14 01:33:17] [IMessager.java] [1] [INFO] INFO:  TEST [automation - unselectProduct] FAILED at [13:33:17 2019-08-14] - Unable to detect element: TXT_chosenElem (By.xpath: (//td[contains(.,"Butter, with salt")])[1])
+
+com.qaprosoft.carina.core.foundation.webdriver.decorator.ExtendedWebElement.doAction(ExtendedWebElement.java:1383)
+com.qaprosoft.carina.core.foundation.webdriver.decorator.ExtendedWebElement.doAction(ExtendedWebElement.java:1337)
+com.qaprosoft.carina.core.foundation.webdriver.decorator.ExtendedWebElement.click(ExtendedWebElement.java:491)
+com.qaprosoft.carina.core.foundation.webdriver.decorator.ExtendedWebElement.click(ExtendedWebElement.java:477)
+com.qaprosoft.carina.core.foundation.webdriver.decorator.ExtendedWebElement.click(ExtendedWebElement.java:468)
+com.test.qa_challenge.demo.gui.pages.search.click_(search.java:49)
+com.test.qa_challenge.demo_test.unselectProduct(demo_test.java:78)
+java.base/jdk.internal.reflect.NativeMethodAccessorImpl.invoke0(Native Method)
+java.base/jdk.internal.reflect.NativeMethodAccessorImpl.invoke(NativeMethodAccessorImpl.java:62)
+java.base/jdk.internal.reflect.DelegatingMethodAccessorImpl.invoke(DelegatingMethodAccessorImpl.java:43)
+java.base/java.lang.reflect.Method.invoke(Method.java:566)
+org.testng.internal.MethodInvocationHelper.invokeMethod(MethodInvocationHelper.java:124)
+org.testng.internal.Invoker.invokeMethod(Invoker.java:583)
+org.testng.internal.Invoker.invokeTestMethod(Invoker.java:719)
+org.testng.internal.Invoker.invokeTestMethods(Invoker.java:989)
+org.testng.internal.TestMethodWorker.invokeTestMethods(TestMethodWorker.java:125)
+org.testng.internal.TestMethodWorker.run(TestMethodWorker.java:109)
+org.testng.TestRunner.privateRun(TestRunner.java:648)
+org.testng.TestRunner.run(TestRunner.java:505)
+org.testng.SuiteRunner.runTest(SuiteRunner.java:455)
+org.testng.SuiteRunner.runSequentially(SuiteRunner.java:450)
+org.testng.SuiteRunner.privateRun(SuiteRunner.java:415)
+org.testng.SuiteRunner.run(SuiteRunner.java:364)
+org.testng.SuiteRunnerWorker.runSuite(SuiteRunnerWorker.java:52)
+org.testng.SuiteRunnerWorker.run(SuiteRunnerWorker.java:84)
+org.testng.TestNG.runSuitesSequentially(TestNG.java:1208)
+org.testng.TestNG.runSuitesLocally(TestNG.java:1137)
+org.testng.TestNG.runSuites(TestNG.java:1049)
+org.testng.TestNG.run(TestNG.java:1017)
+org.testng.IDEARemoteTestNG.run(IDEARemoteTestNG.java:73)
+org.testng.RemoteTestNGStarter.main(RemoteTestNGStarter.java:123)
